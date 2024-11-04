@@ -1,6 +1,6 @@
 /**
  * Author: Mohamed ElHagry
- * Description: Executes point update/ range queries both in O($(\log(N))^2$) on a grid of size O($N \mul N$) for invertible functions, can query prefix for all functions
+ * Description: Executes point update/ range queries both in O($(\log(N))^2$) on a grid of size O($N \times N$) for invertible functions, can query prefix for all functions
 */
 
 const int N = 1e3 + 5;
