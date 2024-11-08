@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Gamal
  * Description: LCA and binary lifting
  */
  const int N = 2e5 + 5;
