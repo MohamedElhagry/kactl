@@ -1,6 +1,6 @@
 /**
  * Author: Gamal
- * Description: Returns minimum $x$ for which $a ^ x /mod m = b /mod m$ using the babystep giantstep algorithm in sqrt(m) log(m)
+ * Description: Returns minimum $x$ for which $a ^ x = b \pmod m$ using the babystep giantstep algorithm in O($\sqrt{m} \log{m}$)
  */
 int solve(int a, int b, int m) {
     a %= m, b %= m;

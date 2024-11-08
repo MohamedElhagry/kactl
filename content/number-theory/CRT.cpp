@@ -1,10 +1,10 @@
 /**
  * Author: Gamal
- * Description:   calculate each two congruences then solve with next: sol(sol(sol(1, 2), 3), 4)
- * T = x mod N -> T = N * k + x
- * T = y mod M -> T = M * p + y
- * N * k + x = M * p + y -> N * k - M * p = y - x (LDE)
- * requires writing of extended euclidian  
+ * Description:   calculate each two congruences then solve with next: sol(sol(sol(1, 2), 3), 4) $\\$
+ * $T = x \pmod N \leftrightarrow T = N \times k + x \\$
+ * $T = y \pmod M \leftrightarrow T = M \times p + y \\$
+ * $N \times k + x = M \times p + y \leftrightarrow N \times k - M \times p = y - x$ (LDE) $\\$
+ * requires writing of extended euclidian
  */
 ll CRT(vector<ll> &rems, vector<ll> &mods) {
     ll prevRem = rems[0], prevMod = mods[0]; /// first congruence

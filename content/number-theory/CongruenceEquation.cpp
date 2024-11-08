@@ -1,6 +1,6 @@
 /**
  * Author: Gamal
- * Description: finds minimum x for which ax = b (mod m)
+ * Description: finds minimum $x$ for which $ax \equiv b \pmod m$
  */
 ll extended_euclid(ll a, ll b, ll &x, ll &y) {
     if (b == 0) {

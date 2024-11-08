@@ -1,9 +1,10 @@
 /**
  * Author: Gamal
- * Description: Ord($x$) is the least positive number such that $x^ord(x)$ = 1 % n.
- *  Number of x with Ord(x) = y is Phi(y)
- *  all possible Ord(x) divide Phi(n)
- *  Ord($a^k$) = Ord(a) / gcd(k,Ord(a))
+ * Description: Remember that $\phi(y)$ is the euler phi function (number of elements less that me that are coprime with me)$\\$
+ * $Ord(x)$ is the least positive number such that $x^{ord(x)} = 1 \pmod n\\$
+ *  Number of $x$ with $Ord(x) = y$ is $\phi(y)\\$
+ *  All possible $Ord(x)$ divide $\phi(n)\\$
+ *  $Ord(a^k) = Ord(a) \mathbin{/}  \gcd(k,Ord(a))$
  */
 int powmod(int a, int b, int p) {
     int res = 1;

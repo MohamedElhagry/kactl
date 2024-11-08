@@ -1,6 +1,6 @@
 /**
  * Author: Gamal
- * Description: factorize numbers in the range L to R by running sieve up to sqrt(R) then using those primes to factorize
+ * Description: factorize numbers in the range $L$ to $R$ by running sieve up to $\sqrt{R}$ then using those primes to factorize
  */
 vector<char> segmentedSieve(long long L, long long R) {
 // generate all primes up to sqrt(R)

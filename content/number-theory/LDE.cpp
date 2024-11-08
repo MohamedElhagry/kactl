@@ -1,7 +1,7 @@
 
 /**
  * Author: Gamal
- * Description: Solves a*x + b*y = c where c is divisible by gcd(a,b)
+ * Description: Solves $ax + by = c$ where $c$ is divisible by $\gcd(a, b)$
  */
 int gcd(int a, int b, int &x, int &y) {
     if (b == 0) {
