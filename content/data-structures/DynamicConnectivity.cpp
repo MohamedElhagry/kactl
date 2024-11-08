@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Dynamic Connectivity Offline
  */
 struct Query {

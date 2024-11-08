@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: It's a segment tree dude O($\log(N)$) for query, O($r-l$) for update
  */
 struct SegTree {

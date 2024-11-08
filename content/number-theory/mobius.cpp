@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Mobius
  */
 const int N = 1e7;

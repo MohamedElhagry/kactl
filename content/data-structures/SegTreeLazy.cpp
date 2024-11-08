@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Lazy Segment Tree
  **/
 struct SegTree {

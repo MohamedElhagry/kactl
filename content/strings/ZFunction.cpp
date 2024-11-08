@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: for every suffix, calculates the longest prefix of that suffix that matches a prefix of the entire string 
  */
 vector<int> z_function(string s) {

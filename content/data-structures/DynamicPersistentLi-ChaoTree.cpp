@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Dynamic Persistent Li Chao Tree
  * Status: Not well tested
  */

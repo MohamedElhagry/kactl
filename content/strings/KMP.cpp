@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: for every i, calculates the longest proper suffix of the i-th prefix that is also a prefix of the entire array
  */ 
 const int N = 1e4;

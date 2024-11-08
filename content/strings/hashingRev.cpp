@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Left is the most significant digit
  */ 
 const int p1 = 31, p2 = 37, MOD = 1e9 + 7;

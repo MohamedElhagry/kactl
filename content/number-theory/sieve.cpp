@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: sieve 
  */
 const int N = 1e6 + 5;

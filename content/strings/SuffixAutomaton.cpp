@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Suffix Automaton
  */ 
 const int M = 26, N = 1000005;

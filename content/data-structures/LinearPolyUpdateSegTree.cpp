@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Allows updates of the form $a x + b$ on an arbitrary range
  */
 const int N = 2e5 + 5;

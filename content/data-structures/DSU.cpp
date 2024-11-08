@@ -1,6 +1,6 @@
 
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: 1-indexed DSU
  */
 struct DSU {

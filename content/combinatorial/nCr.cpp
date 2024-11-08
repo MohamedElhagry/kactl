@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Computes bionmial coefficients $\displaystyle \binom{n}{r} = \frac{n!}{(n-r)!(r)!}$ for all $n$ and $r \le N$ in O(1) after O($N$) preprocessing
  */
 

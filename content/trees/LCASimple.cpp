@@ -1,6 +1,6 @@
 
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: shorter nicer version of LCA imo 
  */
 const int N = 2e5 + 5;

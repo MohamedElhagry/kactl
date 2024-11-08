@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Allows updates of the form $a x^2 + b x + c$ on an arbitrary range
  */
 const ll MOD = 1e9 + 7;

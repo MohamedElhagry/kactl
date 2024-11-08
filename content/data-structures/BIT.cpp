@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Executes point update/ range queries both in O($\log(N)$) on arrays for invertible functions, can query prefix for all functions
 */
 

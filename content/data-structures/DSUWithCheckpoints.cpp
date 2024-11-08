@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: 1-Indexed DSU with checkpoints and rollbacks
  */
 struct Save {

@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Dynamic Li Chao Tree
  */
 const ll OO = 1e18 + 5;

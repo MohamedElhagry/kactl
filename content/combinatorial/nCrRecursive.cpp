@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Computes bionmial coefficients for all $n$ and $r \le N$ in O(1) after O($N^2$) preprocessing
  */
 

@@ -1,5 +1,5 @@
 /**
- * Author: Mohamed ElHagry
+ * Author: Hagry
  * Description: Calculates the maximum palindrome centered around every i, for every palindromes, i is the right index of the middle two 
  */ 
 vi manacher_odd(string &s) {
