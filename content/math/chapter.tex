@@ -62,6 +62,24 @@ magic flux $F=b^2+d^2-a^2-c^2$:
  For cyclic quadrilaterals the sum of opposite angles is $180^\circ$,
 $ef = ac + bd$, and $A = \sqrt{(p-a)(p-b)(p-c)(p-d)}$.
 
+\subsection{Polygons}
+	Pick's theorem: If a polygon has all vertices on integer coordiates, then it's area can be calculated as
+	$a + \frac{b}{2}-1$ where $a$ is  the number of integer points inside the polygon, and $b$ is the number of integer points on the boundary of the polgon.\\
+	For a regular polygon, Let:\\
+	$n$ = number of sides of a regular polygon\\
+	$S$ = side length of the polygon\\
+	$ap$ = apothem the distance from the center of the polygon to the middle of any side\\
+	$r$ = radius of the polygon which is the distance from the center of the polygon to any corner.\\
+	$p$ = perimeter of the polygon\\
+	$A$ = area of polygon
+	$p = S \times n$\\
+	$ap = \frac{S}{(2 * \tan(\frac{180}{n}))} = r \times \cos(\frac{180}{n})$\\
+	$r = \frac{S}{(2 * \sin(\frac{180}{n}))} = \frac{ap}{\cos(\frac{180}{n})}$\\
+	$A = \frac{p * ap}{2} , \frac{({S}^{2} * n)}{(4 * \tan(\frac{180}{n}))} = $\\
+	${ap}^{2} * n * \tan(\frac{180}{n}) = \frac{({r}^{2} * n * \sin(\frac{360}{n}))}{2}$\\
+
+\clearpage
+
 \subsection{Spherical coordinates}
 \begin{center}
 \includegraphics[width=25mm]{content/math/sphericalCoordinates}
